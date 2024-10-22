@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "post_img": "https://i.ibb.co.com/NjRD3r6/1.jpg",
+        "user_img": "https://i.ibb.co.com/7zsnk2Z/boy1.png",
+        "user_name": "Mrs. Setara",
+        "post_title": "Mastering JavaScript ES6 Features for Modern Development",
+        "post_date": "2024-10-15",
+        "reading_time": "5",
+        "tags": [
+            "AI",
+            "Technology",
+            "Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "post_img": "https://i.ibb.co.com/ZG1zwCj/2.png",
+        "user_img": "https://i.ibb.co.com/s9rzMvx/boy2.jpg",
+        "user_name": "Mr. Raju",
+        "post_title": "Essential Coding Skills Every Developer Should Learn",
+        "post_date": "2024-09-21",
+        "reading_time": "8",
+        "tags": [
+            "Blockchain",
+            "Cryptocurrency",
+            "Finance"
+        ]
+    },
+    {
+        "id": 3,
+        "post_img": "https://i.ibb.co.com/MRwDTYX/3.png",
+        "user_img": "https://i.ibb.co.com/QMkSxKQ/girl1.jpg",
+        "user_name": "Mina Mostofa",
+        "post_title": "Building User Interfaces with React Component Architecture",
+        "post_date": "2024-08-10",
+        "reading_time": "6",
+        "tags": [
+            "Health",
+            "Lifestyle",
+            "Wellness"
+        ]
+    },
+    {
+        "id": 4,
+        "post_img": "https://i.ibb.co.com/JrnD1f0/4.jpg",
+        "user_img": "https://i.ibb.co.com/n80ZDmZ/girl2.jpg",
+        "user_name": "David Lee",
+        "post_title": "Free Resources for Learning JavaScript Coding and React",
+        "post_date": "2024-07-05",
+        "reading_time": "7",
+        "tags": [
+            "Travel",
+            "Budget",
+            "Adventure"
+        ]
+    }
+]
