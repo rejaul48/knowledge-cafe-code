@@ -1,10 +1,10 @@
 # Knowledge Cafe
 
-**Chef Calculator** is a simple and intuitive web application designed for chefs and food enthusiasts to easily calculate recipe nutrition, portion sizes, and calories. Built with React and Tailwind CSS, it offers a responsive interface for mobile and desktop, helping users manage recipe data efficiently. Perfect for both home cooks and professionals!
+Knowledge Cafe is a web application that allows users to explore various posts and easily bookmark their favorites. It also includes a reading time calculator to help users manage their reading sessions effectively.
 
 ## Overview
 
-The Chef Calculator simplifies complex calculations for recipes, helping users estimate nutritional values and portion sizes with ease. It’s designed to be mobile-responsive, making it accessible from any device. Perfect for both professional kitchens and home cooking!
+Knowledge Cafe is designed for knowledge seekers who enjoy reading articles and posts. The application features an intuitive interface where users can browse through a collection of posts. Users can bookmark their favorite posts for later reading and get an estimated reading time to optimize their reading experience. This project is built using modern web technologies to ensure a smooth user experience.
 
 ## Installation
 
@@ -22,10 +22,9 @@ npm install
 
 ```
 ## Feature
-🧑‍🍳 Calculate recipe cooking times and calories. <br>
-📱 Responsive design for mobile and desktop.<br>
-🛠 Simple and intuitive user interface.<br>
-⚙️ Easily customizable.<br>
+📚 Bookmark Functionality: Easily add and manage favorite posts to a dedicated bookmark section. <br>
+⏱️ Reading Time Calculator: Automatically calculates the estimated reading time for each post based on word count.  <br>
+📱 Responsive Design: Accessible on both desktop and mobile devices for seamless reading anywhere.  <br>
 
 ## Technologys
 🔵 HTML for the basic structure. <br>
