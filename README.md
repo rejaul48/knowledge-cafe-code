@@ -22,9 +22,9 @@ npm install
 
 ```
 ## Feature
-📚 Bookmark Functionality: Easily add and manage favorite posts to a dedicated bookmark section. <br>
-⏱️ Reading Time Calculator: Automatically calculates the estimated reading time for each post based on word count.  <br>
-📱 Responsive Design: Accessible on both desktop and mobile devices for seamless reading anywhere.  <br>
+📚 **Bookmark Functionality:** Easily add and manage favorite posts to a dedicated bookmark section. <br>
+⏱️ **Reading Time Calculator:** Automatically calculates the estimated reading time for each post based on word count.  <br>
+📱 **Responsive Design:** Accessible on both desktop and mobile devices for seamless reading anywhere.  <br>
 
 ## Technologys
 🔵 HTML for the basic structure. <br>
