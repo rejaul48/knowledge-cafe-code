@@ -12,7 +12,7 @@ Step-by-step instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-https://github.com/rejaul48/chef-calculator.git
+https://github.com/rejaul48/knowledge-cafe-code.git
 
 # Navigate to the project directory
 cd your_repository
