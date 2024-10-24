@@ -1,4 +1,4 @@
-# Knowledge Cafe
+# Knowledge Cafe 
 
 Knowledge Cafe is a web application that allows users to explore various posts and easily bookmark their favorites. It also includes a reading time calculator to help users manage their reading sessions effectively.
 
